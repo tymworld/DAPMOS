@@ -1,2 +1,3 @@
-# datacs
-Dynamical Analysis Toolbox for All-atom or Coarse-grained Simulations
+# DAPMOS
+
+The Dynamical Analysis Package for MOlecular Simulations
